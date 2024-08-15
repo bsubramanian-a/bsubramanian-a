@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<h2 align="center">Hello friends ✌️, Welcome!</h2>
 <ul>
   <li>I'm Rajavel Balasubramanian, a Software Engineer having 7+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
   <li>Checkout my GitHub repositories on 
