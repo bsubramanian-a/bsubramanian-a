@@ -16,4 +16,5 @@
 &nbsp;![](https://komarev.com/ghpvc/?username=bsubramanian-a&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsubramanian-a&show_icons=true&locale=en" alt="bsubramanian-a" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsubramanian-a&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+  ![bsubramanian-a's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsubramanian-a&theme=react&hide_border=true)
 </p>
