@@ -2,10 +2,12 @@
 <ul>
   <li>I'm Rajavel Balasubramanian, a Software Engineer having 7+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
   <li>Checkout my GitHub repositories on 
-    <a href = "https://github.com/bsubramanian-a/seniorcareApp">Senior Care, React Native Mobile App</a>, 
-    <a href = "https://github.com/bsubramanian-a/cleva-backend">Cleva, API for React Native App, Node.Js, Express.Js, Nest.Js</a>, 
-    <a href = "https://github.com/bsubramanian-a/noodleface-backend">NoodleFace, API for Next.JS Website, Node.Js, Express.Js, AWS LAMBDA, AWS Functions</a> 
-    <a href = "https://github.com/bsubramanian-a/noodleface-frontend">NoodleFace, Next.Js website</a>.
+    <ol>
+      <li><a href = "https://github.com/bsubramanian-a/seniorcareApp">Senior Care, React Native Mobile App</a></li>
+      <li><a href = "https://github.com/bsubramanian-a/cleva-backend">Cleva, API for React Native App, Node.Js, Express.Js, Nest.Js</a></li>
+      <li><a href = "https://github.com/bsubramanian-a/noodleface-backend">NoodleFace, API for Next.JS Website, Node.Js, Express.Js, AWS LAMBDA, AWS Functions</a></li>
+      <li><a href = "https://github.com/bsubramanian-a/noodleface-frontend">NoodleFace, Next.Js website</a></li>
+    </ol>
   </li>
   <li>Checkout my <a href="https://www.youtube.com/@crtvecode">YouTube Channel</a> for more in-depth content.</li>
   <li>Follow me on <a href="https://www.linkedin.com/in/bsubbu/">LinkedIn</a> to stay updated.</li>
